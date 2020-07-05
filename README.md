@@ -3,7 +3,7 @@ Fetch and search github repositories with React + Redux
 
 #
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zauribrahimkhalilov/react-github/master/screenshot/home.png" width="800" height="450">
+  <img src="https://raw.githubusercontent.com/zauribrahimkhalilov/react-github/master/screenshots/home.png" width="800" height="450">
 </p>
 
 # Installation
